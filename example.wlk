@@ -51,7 +51,7 @@ object pepón {
 	}
 
 	method comer(alimento) {
-		energia = energia + (alimento.energiaQueAporta() div 2)
+		energia = energia + (alimento.energiaQueAporta() / 2)
 	}
 
 	method volar(distancia) {
