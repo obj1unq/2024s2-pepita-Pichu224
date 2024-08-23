@@ -42,7 +42,7 @@ object manzana {
 	
 }
 
-object pepón {
+object pepon {
 
 	var energia = 30
 
